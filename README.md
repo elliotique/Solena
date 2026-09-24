@@ -21,6 +21,7 @@ Ouvrez ensuite <http://localhost:8000/> dans votre navigateur.
 - `E` : entrer dans la voiture ou en sortir
 - `X` / `Maj` / `Ctrl` : descendre ou réduire
 - `C` : changer de caméra
+- Clic droit maintenu + déplacement de la souris : orbiter autour du personnage ou du véhicule
 - `M` : afficher la carte
 - `R` : réparer ou replacer la voiture sur la route
 - `T` : accélérer le temps
