@@ -31,3 +31,9 @@ Ouvrez ensuite <http://localhost:8000/> dans votre navigateur.
 - `P` ou `Échap` : mettre en pause
 
 Sur mobile, utilisez les boutons tactiles affichés en bas de l'écran, notamment `Entrer` et `Bas` lorsque vous êtes à pied ou dans un véhicule.
+
+## Base Unity pour la suite du projet
+
+Le dossier `unity/` contient une base de démarrage pour reconstruire le projet dans Unity avec une architecture plus propre pour la voiture, la ville, l'éclairage et les contrôles de caméra. Il sert de socle pour que Claude ou un autre développeur puisse reprendre le jeu dans un moteur 3D réel sans repartir de zéro.
+
+Le prototype navigateur reste la référence fonctionnelle et visuelle de la version actuelle, tandis que le projet Unity constitue la piste de production pour une version plus ambitieuse.
