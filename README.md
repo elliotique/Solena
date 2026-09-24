@@ -37,3 +37,12 @@ Sur mobile, utilisez les boutons tactiles affichés en bas de l'écran, notammen
 Le dossier `unity/` contient une base de démarrage pour reconstruire le projet dans Unity avec une architecture plus propre pour la voiture, la ville, l'éclairage et les contrôles de caméra. Il sert de socle pour que Claude ou un autre développeur puisse reprendre le jeu dans un moteur 3D réel sans repartir de zéro.
 
 Le prototype navigateur reste la référence fonctionnelle et visuelle de la version actuelle, tandis que le projet Unity constitue la piste de production pour une version plus ambitieuse.
+
+## Améliorations visuelles de la version actuelle
+
+- matériaux plus travaillés et reflets de voiture améliorés
+- éclairage plus lumineux et rendu plus premium
+- grass, plantation et détails de terrain enrichis
+- bâtiments plus variés en hauteur et en style
+- meilleure séparation route / trottoir et collisions plus crédibles
+- ambiance plus soignée en ville et sur les bords de mer
