@@ -4,13 +4,15 @@ Jeu de conduite en 3D jouable dans un navigateur.
 
 ## Lancer le jeu en local
 
-Depuis ce dossier, démarrez un serveur HTTP :
+Installez Node.js, puis depuis ce dossier démarrez le serveur inclus :
 
-```bash
-python -m http.server 8000
+```powershell
+node server.js
 ```
 
-Ouvrez ensuite <http://localhost:8000/> dans votre navigateur.
+Gardez le terminal ouvert et ouvrez ensuite <http://127.0.0.1:8000/> dans votre navigateur. Pour arrêter le serveur, faites `Ctrl+C`.
+
+Three.js et ses modules de post-traitement sont fournis dans `vendor/` : le jeu ne dépend pas d'un CDN pour démarrer.
 
 ## Contrôles
 
