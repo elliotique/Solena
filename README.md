@@ -42,9 +42,10 @@ Le prototype navigateur reste la référence fonctionnelle et visuelle de la ver
 
 ## Améliorations visuelles de la version actuelle
 
-- matériaux plus travaillés et reflets de voiture améliorés
-- éclairage plus lumineux et rendu plus premium
-- grass, plantation et détails de terrain enrichis
-- bâtiments plus variés en hauteur et en style
-- meilleure séparation route / trottoir et collisions plus crédibles
-- ambiance plus soignée en ville et sur les bords de mer
+- typographie et interface retravaillées
+- carrosseries lissées, rétroviseurs, calandre et plaques sur les voitures
+- collisions physiques avec les voitures garées
+- conduite et dégâts des véhicules ajustés
+- routes plus larges, herbe haute en campagne
+- détails de façade sur les immeubles (pilastres, bandes néon)
+- caméra orbitale au clic droit
